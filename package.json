@@ -1,0 +1,25 @@
+{
+	"name": "hb-express",
+	"version": "1.0.0",
+	"description": "This project will allow for more reporting from the HomeBudget app data",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "npx if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
+		"start:prod": "node src/index.js",
+		"start:dev": "concurrently \"nodemon --ignore 'client/*'\" \" npm run client\"",
+		"client": "cd client && npm run start",
+		"install": "cd client && npm install",
+		"build": "cd client && npm run build",
+		"heroku-postbuild": "npm run build"
+	},
+	"keywords": [],
+	"author": "Justin Young",
+	"license": "ISC",
+	"dependencies": {
+		"concurrently": "^6.2.1",
+		"express": "^4.17.1",
+		"if-env": "^1.0.4",
+		"mongoose": "^6.0.5",
+		"nodemon": "^2.0.12"
+	}
+}
