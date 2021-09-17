@@ -1,7 +1,8 @@
 const express = require("express");
-const path = require("path");
 const middlewares = require ("./middlewares"); // Setup Express Server middleware
 const api = require("./api"); // Setup API Routes
+const browser = require("./browser"); // Setup Browser Routes
+const Mongoose = require("mongoose");
 
 const app = express();
 
@@ -14,13 +15,19 @@ if(process.env.NODE_ENV === "production"){
     app.use(express.static("client/build"));
 }
 
-
 app.use("/api", api); // Links API Routes here
 
+Mongoose.connect(
+    process.env.MONGODB_URI || "mongodb://localhost/hb-reporting",
+    {
+        dbName: "hb-reporting",
+        useNewURLParser: true,
+        useUnifiedTopology: true
+    }
+);
 
-app.use(function(req,res){
-    res.sendFile(path.join(__dirname, "../client/build/index.html"));
-});
+app.use("/", browser); // Links Browser Routes here
+
 
 app.use(middlewares.notFound);
 app.use(middlewares.errorHandler);

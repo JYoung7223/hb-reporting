@@ -1,13 +1,13 @@
 const router = require("express").Router();
-const { Budget } = require("../model/Budget");
+const { Stat } = require("../model/Stat");
 
 // API routes
-// Get stored budgets
-// API route: /api/budget/ (get)
+// Get stored Stats
+// API route: /api/stat/ (get)
 router.get("/", async(req,res)=>{
-    console.log("Getting saved Budgets");
+    console.log("Getting saved Stats");
     
-    Budget.find({}).sort({category: -1})
+    Stat.find({}).sort({category: -1})
         .then((dbResult) => {
             res.status(200).json(dbResult);
         })
@@ -15,12 +15,12 @@ router.get("/", async(req,res)=>{
             res.status(500).json(err);
         });
 });
-// API route: /api/budget/:id (get)
+// API route: /api/stat/:id (get)
 router.get("/:id", async(req,res)=>{
-    let budgetId = req.params.id;
-    console.log(`Getting saved Budget ${budgetId}`);
+    let statId = req.params.id;
+    console.log(`Getting saved Stat ${statId}`);
     
-    Budget.findById(budgetId)
+    Stat.findById(statId)
         .then((dbResult) => {
             res.status(200).json(dbResult);
         })
@@ -29,12 +29,12 @@ router.get("/:id", async(req,res)=>{
         });
 });
 
-// Create budgets
-// API route: /api/budget/ (post)
+// Create Stats
+// API route: /api/stat/ (post)
 router.post("/", async(req,res)=>{
-    console.log("Posting new Budget");
-    const newBudget = new Budget(req.body);
-    Budget.create(newBudget)
+    console.log("Posting new Stat");
+    const newStat = new Stat(req.body);
+    Stat.create(newStat)
         .then((dbResult) => {
             res.status(200).json(dbResult)
         })
@@ -42,11 +42,11 @@ router.post("/", async(req,res)=>{
             res.status(500).json(err);
         });
 });
-// API route: /api/budget/bulk (post)
+// API route: /api/stat/bulk (post)
 router.post("/bulk", async(req,res)=>{
-    console.log("Posting new Budgets");
+    console.log("Posting new Stats");
 
-    Budget.insertMany(req.body)
+    Stat.insertMany(req.body)
         .then(dbResult=> {
             res.status(200).json(dbResult)
         })
@@ -55,14 +55,14 @@ router.post("/bulk", async(req,res)=>{
         });
 });
 
-// Update Budgets
-// API route: /api/budget/:id (put)
+// Update Stats
+// API route: /api/stat/:id (put)
 router.put("/:id", async(req,res)=>{
-    let budgetId = req.params.id;
-    console.log(`Updating Budget ${budgetId}`);
-    console.log(`Request: _id:${budgetId}, body:${req.body}`);
-    Budget.findByIdAndUpdate(
-        {_id: budgetId},
+    let statId = req.params.id;
+    console.log(`Updating Stat ${statId}`);
+    console.log(`Request: _id:${statId}, body:${req.body}`);
+    Stat.findByIdAndUpdate(
+        {_id: statId},
         req.body
         )
         .then(dbResult => {
@@ -73,12 +73,12 @@ router.put("/:id", async(req,res)=>{
         });
 });
 
-// API route: /api/budget/:id (delete)
+// API route: /api/stat/:id (delete)
 router.delete("/:id", async(req,res)=>{
-    let budgetId = req.params.id;
-    console.log(`Deleting Budget ${budgetId}`);
+    let statId = req.params.id;
+    console.log(`Deleting Stat ${statId}`);
     
-    Budget.findByIdAndDelete(budgetId)
+    Stat.findByIdAndDelete(statId)
         .then((response)=>{
             res.status(200).json(response);
         })

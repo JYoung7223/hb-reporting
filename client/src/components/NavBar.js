@@ -12,17 +12,17 @@ function NavBar(){
                 <ul className="navbar-nav">
                     <li key="0" className="nav-item px-3">
                         <a className="nav-link" href="/">
-                            <i class="fas fa-home"></i> Home
+                            <i className="fas fa-home"></i> Home
                         </a>
                     </li>
                     <li key="1" className="nav-item px-3">
                         <a className="nav-link" href="/settings">
-                            <i class="fas fa-cogs"></i> Settings
+                            <i className="fas fa-cogs"></i> Settings
                         </a>
                     </li>
                     <li key="2" className="nav-item px-3">
                         <a className="nav-link" href="/help">
-                            <i class="fas fa-question-circle"></i> Help
+                            <i className="fas fa-question-circle"></i> Help
                         </a>
                     </li>                    
                 </ul>
