@@ -1,0 +1,175 @@
+Cash
+Cash
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Bank Of Utah
+Checking
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","   3248.07","   3248.07",""
+2021-08-03,"Transfer out", "  -1219.00", "   2029.07","To American Express"
+2021-08-04,"Transfer out", "    -68.14", "   1960.93","To Lowes Credit Card"
+2021-08-06,"Stripe", "     95.85", "   2056.78","Neighbor space rental "
+2021-08-06,"MGSV", "   1823.78", "   3880.56","Wages"
+2021-08-12,"Chase", "  -3135.21", "    745.35","Aug mortgage "
+2021-08-12,"Stripe", "    164.85", "    910.20","Neighbor space rental "
+2021-08-15,"Chase", "   -800.00", "    110.20","Extra mortgage payment "
+2021-08-17,"Stripe", "    122.30", "    232.50","Neighbor space rental "
+2021-08-20,"MGSV", "   1823.78", "   2056.28","Wages"
+2021-08-23,"Rocky Mountain Power", "    -40.03", "   2016.25","Aug bill"
+2021-08-26,"Stripe", "    109.07", "   2125.32","Neighbor space rental "
+2021-08-31,"Closing Balance","   2125.32","   2125.32",""
+
+
+Chase Credit Card
+Credit
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","  -1675.94","  -1675.94",""
+2021-08-01,"Amazon", "    -40.56", "  -1716.50","Ryan’s softball bat"
+2021-08-01,"Arctic Circle", "    -22.78", "  -1739.28","Ice cream after church "
+2021-08-02,"Amazon", "    -21.32", "  -1760.60","Phone screen protector and case"
+2021-08-02,"Amazon", "     -6.85", "  -1767.45","Brown shoe polish"
+2021-08-03,"Gasoline", "    -73.37", "  -1840.82","Gas"
+2021-08-03,"McDonalds", "     -6.35", "  -1847.17","Ice cream and cookies after softball "
+2021-08-04,"Transfer in", "   1675.94", "   -171.23","From Statement"
+2021-08-04,"#3 Entertainment", "    -23.40", "   -194.63","Paradise buffet lunch"
+2021-08-05,"Repair & Maint.", "   -262.28", "   -456.91","Big O Tires front two tires"
+2021-08-05,"AAA Security", "    -10.00", "   -466.91","Aug bill"
+2021-08-06,"Chuck-A-Rama", "    -40.43", "   -507.34","Lunch with Joy and Embrey "
+2021-08-09,"#2 Groceries", "    -10.49", "   -517.83","Grape juice and carrot juice "
+2021-08-09,"Walmart", "    -41.37", "   -559.20","Birthday clothes "
+2021-08-12,"Arctic Circle", "    -18.03", "   -577.23","Lunch with Joy"
+2021-08-13,"Gasoline", "    -65.39", "   -642.62","Gas"
+2021-08-13,"#1 Entertainment", "     -6.00", "   -648.62","Mi ranchito lunch"
+2021-08-15,"#3 Entertainment", "     -7.59", "   -656.21","Hospital food"
+2021-08-15,"#3 Entertainment", "     -4.83", "   -661.04","Hospital food"
+2021-08-17,"#2 Entertainment", "    -29.99", "   -691.03","R&R BBQ lunch"
+2021-08-17,"#1 Entertainment", "    -30.79", "   -721.82","Casa Del Tamal dinner"
+2021-08-19,"Entertainment", "    -31.00", "   -752.82","Rodizio grill for John’s bday"
+2021-08-20,"Gasoline", "    -69.54", "   -822.36","Gas"
+2021-08-20,"#1 Birthdays/Gifts", "   -134.22", "   -956.58","Coheed and cambria, and the used concert tickets"
+2021-08-22,"John’s Marketplace", "    -46.43", "  -1003.01","Ice cream and treats after church"
+2021-08-24,"TAT", "   -150.00", "  -1153.01","Sep membership"
+2021-08-26,"Comcast", "    -55.00", "  -1208.01","Aug bill"
+2021-08-26,"Health Insurance", "    -33.00", "  -1241.01","EMI health"
+2021-08-27,"Entertainment", "    -30.79", "  -1271.80","Big daddy’s pizza for campout"
+2021-08-27,"Entertainment", "     -4.11", "  -1275.91","Ice cream for campout "
+2021-08-28,"#1 Entertainment", "    -28.09", "  -1304.00","Astro burger while expedition getting registered "
+2021-08-28,"#1 Entertainment", "    -10.47", "  -1314.47","Astro burger while expedition getting registered "
+2021-08-30,"#1 Entertainment", "    -19.14", "  -1333.61","Carl’s Jr. Before concert"
+2021-08-30,"#1 Entertainment", "    -60.00", "  -1393.61","The used shirts"
+2021-08-30,"#1 Entertainment", "     -3.00", "  -1396.61","Parking for used concert"
+2021-08-31,"Gasoline", "    -68.93", "  -1465.54","Gas"
+2021-08-31,"Closing Balance","  -1465.54","  -1465.54",""
+
+
+Lowes Credit Card
+Credit
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","    -68.14","    -68.14",""
+2021-08-04,"Transfer in", "     68.14", "      0.00","From Bank Of Utah"
+2021-08-07,"Lowes", "    -56.04", "    -56.04","Lawn mower wheels, shelf pins, shelf bolts and nuts"
+2021-08-31,"Closing Balance","    -56.04","    -56.04",""
+
+
+Home Depot
+Credit
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+American Express
+Credit
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","  -1219.00","  -1219.00",""
+2021-08-01,"#1 Birthdays/Gifts", "    -85.00", "  -1304.00","Videos transferred from tape"
+2021-08-03,"Transfer in", "   1219.00", "    -85.00","From Bank Of Utah"
+2021-08-31,"Closing Balance","    -85.00","    -85.00",""
+
+
+Chase Mortgage (...3008)
+Loans
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Statement
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","   5998.80","   5998.80",""
+2021-08-01,"Hannah Young", "     85.00", "   6083.80","Reimbursement for videos transferred from tape"
+2021-08-01,"Hannah Young", "     12.00", "   6095.80","Artic Circle reimbursement "
+2021-08-02,"Owed To Me/Reimburseable", "     21.44", "   6117.24","David fat cats"
+2021-08-02,"Owed To Me/Reimburseable", "    145.00", "   6262.24","Holly’s bathroom flooring. "
+2021-08-04,"Transfer out", "  -1675.94", "   4586.30","To Chase Credit Card"
+2021-08-04,"Hannah Young", "  -1100.00", "   3486.30","Aug contribution "
+2021-08-07,"Birthdays/Gifts", "    -63.22", "   3423.08","2021 boys outing gift"
+2021-08-12,"Susan Johnson", "    250.00", "   3673.08","1/2 basement rent "
+2021-08-20,"CellPhone", "    100.00", "   3773.08","Turn in extra from ksl phone purchase "
+2021-08-20,"Susan Johnson", "   1567.61", "   5340.69","1/2 Aug mortgage "
+2021-08-28,"#1 Entertainment", "     20.00", "   5360.69","Astro burger while expedition getting registered reimbursement "
+2021-08-31,"Closing Balance","   5360.69","   5360.69",""
+
+
+Emergency Fund
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Savings
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Vacation Savings
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Christmas Savings
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Tithing Savings
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Car Savings
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Prop Tax & Ins. Savings
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+Home Imp. Savings
+Statement
+Date,Description,Amount,Balance,Notes
+2021-08-01,"Opening Balance","      0.00","      0.00",""
+2021-08-31,"Closing Balance","      0.00","      0.00",""
+
+
+
+

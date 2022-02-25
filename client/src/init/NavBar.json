@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Home",
+        "link": "/",
+        "icon": "fas fa-home",
+        "order": 0
+    },
+    {
+        "text": "Settings",
+        "link": "/budgets",
+        "icon": "fas fa-cogs",
+        "order": 1
+    },
+    {
+        "text": "Stats",
+        "link": "/stats",
+        "icon": "fas fa-chart-bar",
+        "order": 2
+    },
+    {
+        "text": "Help",
+        "link": "/help",
+        "icon": "fas fa-question-circle",
+        "order": 3
+    }
+]

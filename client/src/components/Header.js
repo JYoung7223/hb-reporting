@@ -12,7 +12,7 @@ function Header(){
                 </h1>
             </div>
             <div className="col-12 text-center">
-                <p>Bringing you closer to Financial Prosperity </p><i className="fas fa-chart-line"></i>
+                <p>Bringing you closer to Financial Prosperity </p><h3><i className="fas fa-chart-line"></i></h3>
             </div>
         </header>
     );

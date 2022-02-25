@@ -1,0 +1,36 @@
+[
+    {
+        "label": "Bills",
+        "id": "BillCSV",
+        "name": "BillCSV",
+        "style": {"color": "red"},
+        "csvParsingOptions": {
+            "header": false,
+            "skipEmptyLines": true
+        },
+        "order": 0
+    },
+    {
+        "label": "Accounts",
+        "id": "AccountCSV",
+        "name": "AccountCSV",
+        "style": {"color": "green"},
+        "csvParsingOptions": {
+            "header": false,
+            "skipEmptyLines": true
+        },
+        "order": 1
+    },
+    {
+        "label": "Default (Expenses, Incomes, Budgets, Transfers)",
+        "id": "DefaultCSV",
+        "name": "DefaultCSV",
+        "style": {"color": "black"},
+        "csvParsingOptions": {
+            "header": false,
+            "skipEmptyLines": true
+        },
+        "order": 2
+    }
+
+]

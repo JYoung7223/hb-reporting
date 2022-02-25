@@ -1,0 +1,121 @@
+Date,Category,SubCategory,Expense Amount,Account,Payee,Notes,Device
+2021-08-06,"Wages","MGSV","  -1823.78","Bank Of Utah","MGSV","Wages",""
+2021-08-04,"Contributions","#1 Contributions","   1100.00","Statement","Hannah Young","Aug contribution ",""
+2021-08-06,"Housing","#2 Rent","    -47.93","Bank Of Utah","Stripe","Neighbor space rental ",""
+2021-08-07,"Housing","#1 Repair & Maint.","     56.04","Lowes Credit Card","Lowes","Lawn mower wheels, shelf pins, shelf bolts and nuts",""
+2021-08-12,"Housing","#2 Mortgage","   1567.60","Bank Of Utah","Chase","Aug mortgage ",""
+2021-08-12,"Housing","#2 Rent","    -82.43","Bank Of Utah","Stripe","Neighbor space rental ",""
+2021-08-12,"Housing","#2 Rent","   -250.00","Statement","Susan Johnson","1/2 basement rent ",""
+2021-08-05,"Utilities","#1 Internet","     10.00","Chase Credit Card","AAA Security","Aug bill",""
+2021-08-20,"Utilities","CellPhone","   -100.00","Statement","","Turn in extra from ksl phone purchase ",""
+2021-08-09,"Food/Groceries","#2 Groceries","     10.49","Chase Credit Card","","Grape juice and carrot juice ",""
+2021-08-22,"Food/Groceries","#1 Groceries","     46.43","Chase Credit Card","John’s Marketplace","Ice cream and treats after church",""
+2021-08-03,"Car/Auto","Gasoline","     73.37","Chase Credit Card","","Gas",""
+2021-08-05,"Car/Auto","Repair & Maint.","    262.28","Chase Credit Card","","Big O Tires front two tires",""
+2021-08-13,"Car/Auto","Gasoline","     65.39","Chase Credit Card","","Gas",""
+2021-08-20,"Car/Auto","Gasoline","     69.54","Chase Credit Card","","Gas",""
+2021-08-31,"Car/Auto","Gasoline","     68.93","Chase Credit Card","","Gas",""
+2021-08-02,"Personal","Blow","     21.32","Chase Credit Card","Amazon","Phone screen protector and case",""
+2021-08-02,"Personal","Blow","      6.85","Chase Credit Card","Amazon","Brown shoe polish",""
+2021-08-24,"Medical/Health","Health/Gym Membership","    150.00","Chase Credit Card","TAT","Sep membership",""
+2021-08-01,"Recreation","#2 Birthdays/Gifts","     40.56","Chase Credit Card","Amazon","Ryan’s softball bat",""
+2021-08-01,"Recreation","#1 Entertainment","     22.78","Chase Credit Card","Arctic Circle","Ice cream after church ",""
+2021-08-01,"Recreation","#1 Birthdays/Gifts","     85.00","American Express","","Videos transferred from tape",""
+2021-08-01,"Recreation","#1 Birthdays/Gifts","    -85.00","Statement","Hannah Young","Reimbursement for videos transferred from tape",""
+2021-08-01,"Recreation","#1 Birthdays/Gifts","    -12.00","Statement","Hannah Young","Artic Circle reimbursement ",""
+2021-08-03,"Recreation","#1 Entertainment","      6.35","Chase Credit Card","McDonalds","Ice cream and cookies after softball ",""
+2021-08-04,"Recreation","#3 Entertainment","     23.40","Chase Credit Card","","Paradise buffet lunch",""
+2021-08-06,"Recreation","Entertainment","     40.43","Chase Credit Card","Chuck-A-Rama","Lunch with Joy and Embrey ",""
+2021-08-07,"Recreation","Birthdays/Gifts","     63.22","Statement","","2021 boys outing gift",""
+2021-08-09,"Recreation","#2 Birthdays/Gifts","     41.37","Chase Credit Card","Walmart","Birthday clothes ",""
+2021-08-12,"Recreation","#2 Entertainment","     18.03","Chase Credit Card","Arctic Circle","Lunch with Joy",""
+2021-08-13,"Recreation","#1 Entertainment","      6.00","Chase Credit Card","","Mi ranchito lunch",""
+2021-08-15,"Recreation","#3 Entertainment","      7.59","Chase Credit Card","","Hospital food",""
+2021-08-15,"Recreation","#3 Entertainment","      4.83","Chase Credit Card","","Hospital food",""
+2021-08-17,"Recreation","#2 Entertainment","     29.99","Chase Credit Card","","R&R BBQ lunch",""
+2021-08-17,"Recreation","#1 Entertainment","     30.79","Chase Credit Card","","Casa Del Tamal dinner",""
+2021-08-19,"Recreation","Entertainment","     31.00","Chase Credit Card","","Rodizio grill for John’s bday",""
+2021-08-20,"Recreation","#1 Birthdays/Gifts","    134.22","Chase Credit Card","","Coheed and cambria, and the used concert tickets",""
+2021-08-27,"Recreation","Entertainment","     30.79","Chase Credit Card","","Big daddy’s pizza for campout",""
+2021-08-27,"Recreation","Entertainment","      4.11","Chase Credit Card","","Ice cream for campout ",""
+2021-08-28,"Recreation","#1 Entertainment","     28.09","Chase Credit Card","","Astro burger while expedition getting registered ",""
+2021-08-28,"Recreation","#1 Entertainment","     10.47","Chase Credit Card","","Astro burger while expedition getting registered ",""
+2021-08-28,"Recreation","#1 Entertainment","    -20.00","Statement","","Astro burger while expedition getting registered reimbursement ",""
+2021-08-30,"Recreation","#1 Entertainment","     19.14","Chase Credit Card","","Carl’s Jr. Before concert",""
+2021-08-02,"Money Lent To/Owed By Others","Owed To Me/Reimburseable","   -145.00","Statement","","Holly’s bathroom flooring. ",""
+2021-08-02,"Money Lent To/Owed By Others","Owed To Me/Reimburseable","    -21.44","Statement","","David fat cats",""
+2021-08-06,"Money Lent To/Owed By Others","Owed To Others","    -47.92","Bank Of Utah","Stripe","Neighbor space rental ",""
+2021-08-12,"Money Lent To/Owed By Others","Owed To Me/Reimburseable","   1567.61","Bank Of Utah","Chase","Aug mortgage ",""
+2021-08-12,"Money Lent To/Owed By Others","Owed To Others","    -82.42","Bank Of Utah","Stripe","Neighbor space rental ",""
+2021-08-20,"Money Lent To/Owed By Others","Owed To Me/Reimburseable","  -1567.61","Statement","Susan Johnson","1/2 Aug mortgage ",""
+2021-08-15,"Extra Debt Payments","#2 Extra Mortgage Payment","    800.00","Bank Of Utah","Chase","Extra mortgage payment ",""
+
+Date,Description,Income Amount,Account,Notes,Device
+
+Category,SubCategory,Budget Amount,Expense Amount,Balance
+Wages,MGSV,      0.00,  -1823.78,   1823.78
+Contributions,#1 Contributions,   1100.00,   1100.00,      0.00
+Contributions,#2 Contributions,      0.00,      0.00,      0.00
+Housing,#2 Mortgage,   1567.60,   1567.60,      0.00
+Housing,#2 Rent,      0.00,   -380.36,    380.36
+Housing,#1 Prop. Tax,      0.00,      0.00,      0.00
+Housing,#2 Prop. Tax,      0.00,      0.00,      0.00
+Housing,#3 Prop. Tax,      0.00,      0.00,      0.00
+Housing,#1 Home Ins.,      0.00,      0.00,      0.00
+Housing,#1 Repair & Maint.,      0.00,     56.04,    -56.04
+Housing,#2 Repair & Maint.,      0.00,      0.00,      0.00
+Housing,#3 Repair & Maint.,      0.00,      0.00,      0.00
+Housing,#1 Improvements,      0.00,      0.00,      0.00
+Housing,#2 Improvements,      0.00,      0.00,      0.00
+Housing,#3 Improvements,      0.00,      0.00,      0.00
+Utilities,#1 Electricity,     60.00,      0.00,     60.00
+Utilities,CellPhone,     42.35,   -100.00,    142.35
+Utilities,#1 Internet,     55.00,     10.00,     45.00
+Food/Groceries,Groceries,      0.00,      0.00,      0.00
+Food/Groceries,#1 Groceries,      0.00,     46.43,    -46.43
+Food/Groceries,#2 Groceries,      0.00,     10.49,    -10.49
+Food/Groceries,#3 Groceries,      0.00,      0.00,      0.00
+Car/Auto,Gasoline,    126.00,    277.23,   -151.23
+Car/Auto,Repair & Maint.,      0.00,    262.28,   -262.28
+Car/Auto,Insurance,      0.00,      0.00,      0.00
+Car/Auto,License & Registrations,      0.00,      0.00,      0.00
+Personal,Clothing/Hygiene,      0.00,      0.00,      0.00
+Personal,Tools,      0.00,      0.00,      0.00
+Personal,Blow,      0.00,     28.17,    -28.17
+Personal,Stupid,      0.00,      0.00,      0.00
+Medical/Health,Health/Gym Membership,    150.00,    150.00,      0.00
+Medical/Health,Vitamins/Supplements,      0.00,      0.00,      0.00
+Medical/Health,Doctor Bills,      0.00,      0.00,      0.00
+Medical/Health,Dentist,      0.00,      0.00,      0.00
+Medical/Health,Optometrist,      0.00,      0.00,      0.00
+Medical/Health,Health Equipment,      0.00,      0.00,      0.00
+Medical/Health,Health Insurance,      0.00,      0.00,      0.00
+Daycare/Education,School Tuition,      0.00,      0.00,      0.00
+Daycare/Education,School Supplies,      0.00,      0.00,      0.00
+Daycare/Education,Daycare,      0.00,      0.00,      0.00
+Recreation,Entertainment,      0.00,    106.33,   -106.33
+Recreation,#1 Entertainment,     60.00,    103.62,    -43.62
+Recreation,#2 Entertainment,     20.00,     48.02,    -28.02
+Recreation,#3 Entertainment,      0.00,     35.82,    -35.82
+Recreation,Birthdays/Gifts,      0.00,     63.22,    -63.22
+Recreation,#1 Birthdays/Gifts,     40.00,    122.22,    -82.22
+Recreation,#2 Birthdays/Gifts,     20.00,     81.93,    -61.93
+Recreation,#3 Birthdays/Gifts,     20.00,      0.00,     20.00
+Recreation,Christmas,      0.00,      0.00,      0.00
+Recreation,#1 Christmas,      0.00,      0.00,      0.00
+Recreation,#2 Christmas,      0.00,      0.00,      0.00
+Recreation,#3 Christmas,      0.00,      0.00,      0.00
+Recreation,#1 Vacation,      0.00,      0.00,      0.00
+Recreation,#2 Vacation,      0.00,      0.00,      0.00
+Recreation,#3 Vacation,      0.00,      0.00,      0.00
+Charitable Gifts,Tithing,      0.00,      0.00,      0.00
+Charitable Gifts,Gifts/Charity,      0.00,      0.00,      0.00
+Money Lent To/Owed By Others,Owed To Others,      0.00,   -130.34,    130.34
+Money Lent To/Owed By Others,Owed To Me/Reimburseable,      0.00,   -166.44,    166.44
+Money Lent To/Owed By Others,Interest,      0.00,      0.00,      0.00
+Extra Debt Payments,#2 Extra Mortgage Payment,    800.00,    800.00,      0.00
+
+Date,From,To,Amount,Notes,Device
+2021-08-03,"Bank Of Utah","American Express","   1219.00","Jul bill",""
+2021-08-04,"Bank Of Utah","Lowes Credit Card","     68.14","Jul bill",""
+2021-08-04,"Statement","Chase Credit Card","   1675.94","Jul bill",""

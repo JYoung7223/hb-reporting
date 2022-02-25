@@ -1,30 +1,41 @@
-import React from "react";
+import React, {useReducer} from "react";
+import NavBarItems from "../init/NavBar.json";
 
 function NavBar(){
+    const initNavBar = NavBarItems || [
+        {
+            text: "",
+            link: "",
+            icon: "",
+            order: 0
+        }
+    ];
+
+    function changeNavBar(currentNavBar, change){
+        return {...currentNavBar, change};
+    }
+    const [navBarData, setNavBarData] = useReducer(changeNavBar, initNavBar);
+
     return (
-        <nav className="container-fluid navbar navbar-expand-md navbar-ligh bg-light">
+        <nav className="container-fluid navbar navbar-expand-md navbar-light bg-light">
             
-            <button className="nabar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarCollapesableContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button className="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarCollapseableContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <i className="fas fa-bars"></i>
             </button>
 
             <div className="collapse navbar-collapse" id="navbarCollapseableContent">
                 <ul className="navbar-nav">
-                    <li key="0" className="nav-item px-3">
-                        <a className="nav-link" href="/">
-                            <i className="fas fa-home"></i> Home
-                        </a>
-                    </li>
-                    <li key="1" className="nav-item px-3">
-                        <a className="nav-link" href="/settings">
-                            <i className="fas fa-cogs"></i> Settings
-                        </a>
-                    </li>
-                    <li key="2" className="nav-item px-3">
-                        <a className="nav-link" href="/help">
-                            <i className="fas fa-question-circle"></i> Help
-                        </a>
-                    </li>                    
+                    {
+                        navBarData.map((item)=>{
+                            return (
+                                <li key={item.order} className="nav-item px-3">
+                                    <a className="nav-link" href={item.link}>
+                                        <i className={item.icon}></i> {item.text}
+                                    </a>
+                                </li>
+                            );
+                        })
+                    }                    
                 </ul>
             </div>
         </nav>
