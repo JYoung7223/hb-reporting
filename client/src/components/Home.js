@@ -1,12 +1,12 @@
 import React, {useRef, useReducer } from "react";
 import CSVReader from "react-csv-reader";
 import FilesUploadConfig from "../init/FilesConfig.json";
-import {Headers as billHeaders, checkHeaders as checkBillHeaders, getBill} from "../model/Bill";
-import {Headers as accountHeaders, checkHeaders as checkAccountHeaders, getAccount} from "../model/Account";
-import {Headers as expenseHeaders, checkHeaders as checkExpenseHeaders, getExpense} from "../model/Expense";
-import {Headers as incomeHeaders, checkHeaders as checkIncomeHeaders, getIncome} from "../model/Income";
-import {Headers as userBudgetHeaders, checkHeaders as checkUserBudgetHeaders, getUserBudget} from "../model/UserBudget";
-import {Headers as transferHeaders, checkHeaders as checkTransferHeaders, getTransfer} from "../model/Transfer";
+import {Headers as billHeaders, checkHeaders as checkBillHeaders, getBill} from "../model/fileImports/Bill";
+import {Headers as accountHeaders, checkHeaders as checkAccountHeaders, getAccount} from "../model/fileImports/Account";
+import {Headers as expenseHeaders, checkHeaders as checkExpenseHeaders, getExpense} from "../model/fileImports/Expense";
+import {Headers as incomeHeaders, checkHeaders as checkIncomeHeaders, getIncome} from "../model/fileImports/Income";
+import {Headers as userBudgetHeaders, checkHeaders as checkUserBudgetHeaders, getUserBudget} from "../model/fileImports/UserBudget";
+import {Headers as transferHeaders, checkHeaders as checkTransferHeaders, getTransfer} from "../model/fileImports/Transfer";
 
 // import { API } from "../api/API";
 

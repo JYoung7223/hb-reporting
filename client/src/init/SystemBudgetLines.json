@@ -1,0 +1,1206 @@
+[
+    {
+        "id":"01",
+        "category":"Income",
+        "description":"", "type":"percent",
+        "low":100,
+        "high":100,
+        "subBudget": [
+            {
+                "id":"01-01",
+                "category":"Wages",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },            
+            {
+                "id":"01-02",
+                "category":"Day Care Assistance",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-03",
+                "category":"WIC Checks",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-04",
+                "category":"Food Check",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-05",
+                "category":"Food Stamps",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-06",
+                "category":"Heat Assistance",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-07",
+                "category":"Utility Reimbursement",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-08",
+                "category":"Transport Reimbursement",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-09",
+                "category":"Other Reimbursement",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-10",
+                "category":"Medical Assistance",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-11",
+                "category":"Other Income",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-12",
+                "category":"Contributions",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"01-13",
+                "category":"Irregular Income",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            }
+        ],
+        "createDt":"",
+        "modifiedDt":"",
+        "modifiedId":""
+    },
+    {
+        "id":"02",
+        "category":"Expense",
+        "description":"", "type":"percent",
+        "low":100,
+        "high":100,
+        "subBudget": [
+            {
+                "id":"02-01",
+                "category":"Food",
+                "description":"", "type":"person",
+                "low":90,
+                "high":100,
+                "subBudget": [
+                    {
+                        "id":"02-01-01",
+                        "category":"Food",
+                        "description":"", "type":"percent",
+                        "low":4.5,
+                        "high":11,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },            
+                    {
+                        "id":"02-01-02",
+                        "category":"Milk",
+                        "description":"", "type":"percent",
+                        "low":0.5,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-01-03",
+                        "category":"WIC",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-01-04",
+                        "category":"Formula",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },            
+            {
+                "id":"02-02",
+                "category":"Housing",
+                "description":"", "type":"percent",
+                "low":25,
+                "high":35,
+                "subBudget": [
+                    {
+                        "id":"02-02-01",
+                        "category":"Mom's Mortgage Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":19,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-02-02",
+                        "category":"Dad's Mortgage Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":15,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-02-03",
+                        "category":"Property Taxes",
+                        "description":"", "type":"percent",
+                        "low":1.5,
+                        "high":3,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-02-04",
+                        "category":"Home Insurance",
+                        "description":"", "type":"percent",
+                        "low":1,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-02-05",
+                        "category":"Repairs & Maintenance",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-02-06",
+                        "category":"Replace Furniture & Appliance",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-02-07",
+                        "category":"Landscaping",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-03",
+                "category":"Utilities",
+                "description":"", "type":"percent",
+                "low":3,
+                "high":8,
+                "subBudget": [
+                    {
+                        "id":"02-03-01",
+                        "category":"Electricity",
+                        "description":"", "type":"percent",
+                        "low":0.5,
+                        "high":2.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-02",
+                        "category":"Water & Sewer",
+                        "description":"", "type":"percent",
+                        "low":0.5,
+                        "high":1.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-03",
+                        "category":"Gas",
+                        "description":"", "type":"percent",
+                        "low":0.5,
+                        "high":1.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-04",
+                        "category":"Phone",
+                        "description":"", "type":"percent",
+                        "low":0.2,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-05",
+                        "category":"Trash",
+                        "description":"", "type":"percent",
+                        "low":0.1,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-06",
+                        "category":"Cable",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-07",
+                        "category":"Internet",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-08",
+                        "category":"Alarm",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-09",
+                        "category":"Rental Reimbursement",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-10",
+                        "category":"Lawn Care",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-03-11",
+                        "category":"Pest Control",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-04",
+                "category":"Transportation",
+                "description":"", "type":"percent",
+                "low":5,
+                "high":10,
+                "subBudget": [
+                    {
+                        "id":"02-04-01",
+                        "category":"Car Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-04-02",
+                        "category":"Gas & Oil",
+                        "description":"", "type":"percent",
+                        "low":2,
+                        "high":6,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-04-03",
+                        "category":"Repairs & Tires",
+                        "description":"", "type":"percent",
+                        "low":1,
+                        "high":3,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-04-04",
+                        "category":"Maintenance",
+                        "description":"", "type":"percent",
+                        "low":0.5,
+                        "high":1.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-04-05",
+                        "category":"Car Insurance",
+                        "description":"", "type":"percent",
+                        "low":0.2,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-04-06",
+                        "category":"License & Taxes",
+                        "description":"", "type":"percent",
+                        "low":0.1,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-04-07",
+                        "category":"Car Replacement",
+                        "description":"", "type":"percent",
+                        "low":0.5,
+                        "high":3,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-05",
+                "category":"Clothing",
+                "description":"", "type":"person",
+                "low":4,
+                "high":14,
+                "subBudget": [
+                    {
+                        "id":"02-05-01",
+                        "category":"Children",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-05-02",
+                        "category":"Adult",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-06",
+                "category":"Medical & Health",
+                "description":"", "type":"percent",
+                "low":0.8,
+                "high":4.5,
+                "subBudget": [
+                    {
+                        "id":"02-06-01",
+                        "category":"Health & Gym Membership",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-02",
+                        "category":"Vitamins & Supplements",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-03",
+                        "category":"Disability Insurance",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-04",
+                        "category":"Health Insurance",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-05",
+                        "category":"Doctor Bills",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-06",
+                        "category":"Supplies",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-07",
+                        "category":"Dentist",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-08",
+                        "category":"Optomotrist",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-06-09",
+                        "category":"Medications",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-07",
+                "category":"Daycare & Education",
+                "description":"", "type":"percent",
+                "low":5,
+                "high":29,
+                "subBudget": [
+                    {
+                        "id":"02-07-01",
+                        "category":"Child Care",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":15,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-02",
+                        "category":"Baby Sitter",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-03",
+                        "category":"School Tuition",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-04",
+                        "category":"School Supplies",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-05",
+                        "category":"Achievement Training",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-06",
+                        "category":"Achievement Supplies",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-07",
+                        "category":"Adult Education",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":2,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-08",
+                        "category":"Licensing & Certifications",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-07-09",
+                        "category":"Business Supplies",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-08",
+                "category":"Personal",
+                "description":"", "type":"person",
+                "low":45,
+                "high":83,
+                "subBudget": [
+                    {
+                        "id":"02-08-01",
+                        "category":"Toiletries & Hygiene",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-02",
+                        "category":"Diapers",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-03",
+                        "category":"Cleaning & Laundry Supplies",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-04",
+                        "category":"Cosmetics",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-05",
+                        "category":"Hair Care",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-06",
+                        "category":"Subscriptions & Dues",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.25,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-07",
+                        "category":"Gifts & Christmas",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":4,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-08",
+                        "category":"Life Insurance",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-09",
+                        "category":"Home & Holiday Decorations",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-10",
+                        "category":"Stupid",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-08-11",
+                        "category":"Blow Money",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-09",
+                "category":"Recreation",
+                "description":"", "type":"person",
+                "low":8,
+                "high":29,
+                "subBudget": [
+                    {
+                        "id":"02-09-01",
+                        "category":"Entertainment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-09-02",
+                        "category":"Date Night",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-09-03",
+                        "category":"Resturants",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-09-04",
+                        "category":"Vacation",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-10",
+                "category":"Charity",
+                "description":"", "type":"percent",
+                "low":0.5,
+                "high":2,
+                "subBudget": [
+                    {
+                        "id":"02-10-01",
+                        "category":"Tithing",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-10-02",
+                        "category":"Charitable Gifts",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },
+            {
+                "id":"02-11",
+                "category":"Money Lent & Owed to Others",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":100,
+                "subBudget": [
+                    {
+                        "id":"02-11-01",
+                        "category":"Loaned to Others",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-11-02",
+                        "category":"Received Back",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":1,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-11-03",
+                        "category":"Borrowed from Others",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"02-11-04",
+                        "category":"Payed Back",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":0.5,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            }
+        ],
+        "createDt":"",
+        "modifiedDt":"",
+        "modifiedId":""
+    },
+    {
+        "id":"03",
+        "category":"Debt & Savings",
+        "description":"", "type":"percent",
+        "low":10,
+        "high":100,
+        "subBudget": [
+            {
+                "id":"03-01",
+                "category":"Extra Debt Payments",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":20,
+                "subBudget": [
+                    {
+                        "id":"03-01-01",
+                        "category":"Extra Statement Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"03-01-02",
+                        "category":"Extra Credit Card Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"03-01-03",
+                        "category":"Extra Auto Loan Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"03-01-04",
+                        "category":"Extra Student Loan Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"03-01-05",
+                        "category":"Extra Other Loan Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"03-01-06",
+                        "category":"Extra Mortgage Payment",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            },            
+            {
+                "id":"03-02",
+                "category":"Savings",
+                "description":"", "type":"percent",
+                "low":0,
+                "high":20,
+                "subBudget": [
+                    {
+                        "id":"03-02-01",
+                        "category":"Emergency Fund",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"03-02-02",
+                        "category":"Wish List Fund",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":10,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    },
+                    {
+                        "id":"03-02-03",
+                        "category":"Savings",
+                        "description":"", "type":"percent",
+                        "low":0,
+                        "high":100,
+                        "subBudget": [],
+                        "createDt":"",
+                        "modifiedDt":"",
+                        "modifiedId":""
+                    }
+                ],
+                "createDt":"",
+                "modifiedDt":"",
+                "modifiedId":""
+            }
+        ],
+        "createDt":"",
+        "modifiedDt":"",
+        "modifiedId":""
+    }
+]
